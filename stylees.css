@@ -4,12 +4,12 @@ body{
 }
 
 h2{
-    color:rgb(0, 0, 0);
-    text-align: left;
+    color:rgb(133, 63, 146);
+    text-align: right;
 }
 
 h1{
-    color:rgb(72, 46, 8);
+    color:blanchedalmond;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: left;
 }
